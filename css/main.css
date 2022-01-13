@@ -48,11 +48,11 @@ body {
 }
 
 .demo:hover .right {
-    transform: perspective(2000px) rotateY(145deg);
+    transform: perspective(2000px) rotateY(140deg);
 }
 
 .demo:hover .left {
-    transform: perspective(2000px) rotateY(-145deg);
+    transform: perspective(2000px) rotateY(-140deg);
 }
 
 .content {
