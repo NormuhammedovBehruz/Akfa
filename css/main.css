@@ -28,9 +28,10 @@ body {
 }
 
 .demo {
-    background-image: url(../images/89a3af65028b40d3a9f4a74de94a415d-pic2.jpg);
+    background-image: url(../images//ddb3ed972a38fbd1c034b9fd6963b898.png);
+    background-repeat: no-repeat;
     background-position: center;
-    background-size: contain;
+    background-size: cover;
     display: flex;
     margin-top: 85px;
     width: 400px;
